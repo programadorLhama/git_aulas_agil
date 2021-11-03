@@ -2,7 +2,7 @@ from messages import display_messages
 import random
 import time
 
-print('Iniciando o Projeto')
+print('Iniciando o Projeto 3..2..1..')
 time.sleep(3)
 
 while True:
