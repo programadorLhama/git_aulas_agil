@@ -3,5 +3,6 @@ display_messages = [
     'Fique tranquilo, tudo vai acabar bem!',
     'ola mundo! estou aqui!',
     'Acredite nos seus caminhos! Sempre!',
-    'Sempre apague as luzes antes de sair!'
+    'Sempre apague as luzes antes de sair!',
+    'Ola Mundo'
 ]
